@@ -1,6 +1,6 @@
 [package]
-name = "docker_image_backup"
+name = "docker-image-backup"
 version = "0.1.0"
-authors = ["Alex Nelson <anelson@ipponusa.com>"]
+authors = ["Alex Nelson <anelson@ipponusa.com> <alex@extreme-nelsons.net>"]
 
 [dependencies]
